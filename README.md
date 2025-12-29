@@ -1,5 +1,5 @@
 ## 🚀 Live Demo
-👉 https://YOUR-NEW-APP-URL.streamlit.app
+👉 https://universal-csv-data-analyzer-o4uc5wacyzbmbgcrt53vpn.streamlit.app/
 
 
 # 📊 Universal CSV Data Analyzer – Web Application
