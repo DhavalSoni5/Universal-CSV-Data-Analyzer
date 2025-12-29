@@ -1,3 +1,7 @@
+
+## 🚀 Live Demo
+👉 https://universal-csv-data-analyzer.streamlit.app
+
 # 📊 Universal CSV Data Analyzer – Web Application
 
 A Python-based **web application** that allows users to upload **any CSV file**
